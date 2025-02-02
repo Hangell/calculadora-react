@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/calculadora-react/static/js/main.c32fcf15.js",
+    "index.html": "/calculadora-react/index.html",
+    "main.c32fcf15.js.map": "/calculadora-react/static/js/main.c32fcf15.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c32fcf15.js"
+  ]
+}
